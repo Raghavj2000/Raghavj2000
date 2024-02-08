@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started: -->
 .
-- 🌱 I’m currently learning Front-End
+- 🌱 I’m currently  Front-End developer working @ziniosedge pvt ltd.
 - 📫 How to reach me: raghavjayateerth@gmail.com
 
 
